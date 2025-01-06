@@ -1,0 +1,7 @@
+[package]
+name = "v_escape_bug"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+v_escape = "0.18.0"
